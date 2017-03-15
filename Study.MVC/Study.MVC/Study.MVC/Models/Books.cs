@@ -20,10 +20,21 @@ namespace Study.MVC.Models
         public int D { get; set; }
         public DateTime CreateTime { get; set; }
     }
+    public class Person
+    {
+        public int Id { get; set; }
+        [Display(Name ="姓名")]
+        [Required]
+        public string Name { get; set; }
+        [Display(Name = "年龄")]
+        [Required]
+        public int Age { get; set; }
+
+    }
     public class BookDBContext: DbContext
     {
 
         public DbSet<Books> Books { get; set; }
-
+        public DbSet<Person> Persons { get; set; }
     }
 }
