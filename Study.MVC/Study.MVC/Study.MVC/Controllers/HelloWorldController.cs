@@ -17,5 +17,9 @@ namespace Study.MVC.Controllers
         {
             return string.Format("{0}第{1}访问固定的Action",name,num);
         }
+        public ActionResult List()
+        {
+            return View();
+        }
     }
 }
