@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.MVC", "Study.MVC\Study.MVC.csproj", "{57616487-6642-49C3-8E5D-55BF9049A532}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQ", "MQ\MQ.csproj", "{A2E7F2BE-8DFF-45C2-AA84-1BFB8C164A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET DEMO", "ASP.NET DEMO\ASP.NET DEMO.csproj", "{BB037E60-DC35-43F7-8350-90AD6F3EE095}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A2E7F2BE-8DFF-45C2-AA84-1BFB8C164A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2E7F2BE-8DFF-45C2-AA84-1BFB8C164A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2E7F2BE-8DFF-45C2-AA84-1BFB8C164A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB037E60-DC35-43F7-8350-90AD6F3EE095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB037E60-DC35-43F7-8350-90AD6F3EE095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB037E60-DC35-43F7-8350-90AD6F3EE095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB037E60-DC35-43F7-8350-90AD6F3EE095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
