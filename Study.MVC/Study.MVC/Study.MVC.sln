@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Asp.Net Core", "First
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frameowrk Asp.Net Core", "Frameowrk Asp.Net Core\Frameowrk Asp.Net Core.csproj", "{3D02E523-CB71-48F1-887E-7C3E9BAC0815}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Demo", "SignalR.Demo\SignalR.Demo.csproj", "{BBAE9E6C-2C95-4FE6-B6D1-27130EC33845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3D02E523-CB71-48F1-887E-7C3E9BAC0815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D02E523-CB71-48F1-887E-7C3E9BAC0815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D02E523-CB71-48F1-887E-7C3E9BAC0815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAE9E6C-2C95-4FE6-B6D1-27130EC33845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE9E6C-2C95-4FE6-B6D1-27130EC33845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE9E6C-2C95-4FE6-B6D1-27130EC33845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE9E6C-2C95-4FE6-B6D1-27130EC33845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
